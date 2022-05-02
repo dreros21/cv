@@ -1,0 +1,38 @@
+body {
+  background-color: #d5f4e6;
+  text-align: center;
+
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 50%;
+  text-align: center;
+}
+
+
+
+
+h1 {
+  color: #00bfff;
+  text-align: center;
+  font-family: clarendon;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  color: #00bfff;
+  text-align: center;
+}
+
+.work{
+  margin: auto;
+}
+.skills{
+  margin: auto;
+}
